@@ -3,7 +3,7 @@ A better task manager for unix system, similar to task manager under windows os
 
 # ScreenShot
 
-![](./taskmanager_screenshot/about.png =250x250)
+![](./taskmanager_screenshot/about.png)
 ![](./taskmanager_screenshot/killprocess.png)
 ![](./taskmanager_screenshot/memory.png)
 ![](./taskmanager_screenshot/module.png)
