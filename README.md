@@ -1,6 +1,10 @@
 # Description
 A better task manager for unix system, similar to task manager under windows os
 
+# Documentation
+[Task Manager Documentation](./task manager documentation.pdf)
+
+
 # ScreenShot
 
 ![](./taskmanager_screenshot/about.png)
